@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio
+# Personal Portfolio
 
 A personal portfolio website built with **React** to showcase my background, skills, projects, and ways to get in touch with me. The site is designed to be clean, modern, and easy to navigate, serving as a central hub for my work as a software engineer.
 
