@@ -48,7 +48,7 @@ export default function Projects() {
       description: "An e-commerce website for clothing, leveraging HTML, CSS, and JavaScript for the frontend. The checkout process is powered by Node.js and integrated with the Stripe API to handle secure payments.",
       codeUrl: "https://github.com/miguel23es/E-commerce-Website",
       demoUrl: "https://YOUR_LIVE_DEMO_3",
-     website:"google.com",
+      website:"https://e-commerce-website-cwxm.onrender.com",
     },
     {
       title: "Tonguefu Videogame",
