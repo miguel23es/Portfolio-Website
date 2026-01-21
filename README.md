@@ -23,7 +23,7 @@ The site includes a clear overview of who I am, my technical skills, and detaile
 - **Projects Showcase** – Interactive project cards with links to:
   - GitHub repositories  
   - Live demos / websites  
-- **Contact Section** – Ways to reach me (email, LinkedIn, etc.)  
+- **Personal Info Section** – Ways to reach me and see more about me (Github, LinkedIn, resume).
 - **Responsive Design** – Optimized for desktop, tablet, and mobile  
 - **Modern UI/UX** – Clean, minimal, and professional layout  
 
