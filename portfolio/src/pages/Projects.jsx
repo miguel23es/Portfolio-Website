@@ -34,14 +34,14 @@ export default function Projects() {
       description: "A simple and efficient full-stack task manager web application that lets users create, update, and delete tasks in a clean and intuitive interface. Built with HTML, CSS, JavaScript, Node.js, Express, and MongoDB, this app supports user authentication and persistent task storage. It also integrates third-party APIs such as FullCalendar and Flatpickr to enhance scheduling and date management. Perfect for staying organized and boosting productivity!",
       codeUrl: "https://github.com/miguel23es/Task-Manager-App",
       demoUrl: "https://YOUR_LIVE_DEMO_1",
-      website: "https://Miluz.onrender.com",
+      website: "https://miluz.us",
     },
     {
       title: "AI Ad Analyzer",
       description: "AI Ad Analyzer is a full-stack web application that evaluates the effectiveness of digital advertisements using OCR text extraction and the OpenAI API. Users upload ad images, which are processed with OCR to detect text content. The extracted data is then analyzed by AI to generate performance insights, improvement suggestions, and optimized ad copy. The system provides scoring, feedback, and actionable recommendations to help marketers improve ad quality and conversion potential.",
       codeUrl: "https://github.com/miguel23es/AI-Ad-Analyzer",
       demoUrl: "https://YOUR_LIVE_DEMO_2",
-      website:"google.com",
+      website:"https://ai-ad-analyzer.onrender.com",
     },
     {
       title: "E-commerce Website",
