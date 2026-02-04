@@ -16,14 +16,14 @@ export default function Home() {
 
           <a
             className="btn"
-            href="/Miguel_Espinosa_Resume_CS.pdf"
+            href="/Miguel_Espinosa_Software_Engineer_Resume"
             target="_blank"
             rel="noreferrer"
           >
             Resume
           </a>
 
-          <a className="btn" href="https://github.com/MIGUEL23ES" target="_blank" rel="noreferrer">
+          <a className="btn" href="https://github.com/miguel23es" target="_blank" rel="noreferrer">
             GitHub
           </a>
 
