@@ -16,7 +16,7 @@ export default function Home() {
 
           <a
             className="btn"
-            href="/Miguel_Espinosa_Software_Engineer_Resume"
+            href="/Miguel_Espinosa_Software_Engineer_Resume.pdf"
             target="_blank"
             rel="noreferrer"
           >
