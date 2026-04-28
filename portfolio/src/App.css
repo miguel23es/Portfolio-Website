@@ -17,10 +17,17 @@ html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
-  background: radial-gradient(1200px 800px at 20% 10%, rgba(90, 110, 255, 0.25), transparent 60%),
-              radial-gradient(900px 700px at 90% 30%, rgba(0, 200, 255, 0.18), transparent 55%),
-              var(--bg);
+  min-height: 100vh;
+
+  background:
+    radial-gradient(1200px 800px at 20% 10%, rgba(90, 110, 255, 0.25), transparent 60%),
+    radial-gradient(900px 700px at 90% 30%, rgba(0, 200, 255, 0.18), transparent 55%),
+    #0b0f19;
+
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* 👈 key fix */
+  background-size: cover;
+
   color: var(--text);
 }
 
