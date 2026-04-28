@@ -25,12 +25,12 @@ body {
 }
 
 .page {
-  height: 100%;
-  width: 100%;
-  display: flex;
-  align-items: center;
+  min-height: 100vh;
+  height: auto;
+  align-items: flex-start;
   justify-content: center;
   padding: 40px 16px;
+  gap: 40px;
 }
 
 
@@ -117,16 +117,15 @@ body {
 }
 
 .projectsHeader {
-  display: flex;
-  flex-direction: column;
-  margin-right: 80px;
+  flex: 0 0 240px;
+  margin-right: 0;
   margin-bottom: 22px;
 }
 
 .projectsGrid {
-  width: min(1000px, 92vw);
+  width: min(1100px, 100%);
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 16px;
 }
 
@@ -148,6 +147,11 @@ body {
   margin: 0 0 16px;
   color: var(--muted);
   line-height: 1.5;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .projectLinks {
