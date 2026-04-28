@@ -25,6 +25,15 @@ body {
 }
 
 .page {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 16px;
+}
+
+.pageTop {
   min-height: 100vh;
   height: auto;
   align-items: flex-start;
