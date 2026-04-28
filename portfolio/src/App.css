@@ -249,6 +249,8 @@ body {
   .projectsHeader {
     margin-right: 0;          
     margin-bottom: 16px;
+    align-self: center;
+
   }
 
   .projectsGrid {
