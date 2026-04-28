@@ -122,14 +122,22 @@ body {
 /* For the projects page*/
 
 .pageTop {
-  display: flex;
+  min-height: 100vh;
+  height: auto;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 40px 16px;
+  gap: 40px;
 }
+
 
 .projectsHeader {
   display: flex;
   flex-direction: column;
   margin-right: 80px;
   margin-bottom: 22px;
+  align-self: center;
+
 }
 
 .projectsGrid {
@@ -249,8 +257,6 @@ body {
   .projectsHeader {
     margin-right: 0;          
     margin-bottom: 16px;
-    align-self: center;
-
   }
 
   .projectsGrid {
