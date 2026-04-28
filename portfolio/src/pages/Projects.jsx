@@ -37,24 +37,30 @@ export default function Projects() {
       website: "https://miluz.us",
     },
     {
+      title: "Job Application Tracker",
+      description: "A clean and interactive full-stack job application tracker that helps users organize and manage their job search efficiently. Users can add, update, and track applications with details like status, salary, dates, and next actions in an intuitive interface. Built with HTML, CSS, JavaScript, Python (Flask), and SQL, the app features dynamic filtering, sorting, and data insights to monitor progress. Designed to streamline the job hunt and keep everything structured in one place.",
+      codeUrl: "https://github.com/miguel23es/Job-Tracker-App",
+      demoUrl: "https://YOUR_LIVE_DEMO_2", 
+    },
+    {
       title: "AI Ad Analyzer",
       description: "AI Ad Analyzer is a full-stack web application that evaluates the effectiveness of digital advertisements using OCR text extraction and the OpenAI API. Users upload ad images, which are processed with OCR to detect text content. The extracted data is then analyzed by AI to generate performance insights, improvement suggestions, and optimized ad copy. The system provides scoring, feedback, and actionable recommendations to help marketers improve ad quality and conversion potential.",
       codeUrl: "https://github.com/miguel23es/AI-Ad-Analyzer",
-      demoUrl: "https://YOUR_LIVE_DEMO_2",
+      demoUrl: "https://YOUR_LIVE_DEMO_3",
       website:"https://ai-ad-analyzer.onrender.com",
     },
     {
       title: "E-commerce Website",
       description: "An e-commerce website for clothing, leveraging HTML, CSS, and JavaScript for the frontend. The checkout process is powered by Node.js and integrated with the Stripe API to handle secure payments.",
       codeUrl: "https://github.com/miguel23es/E-commerce-Website",
-      demoUrl: "https://YOUR_LIVE_DEMO_3",
+      demoUrl: "https://YOUR_LIVE_DEMO_4",
       website:"https://e-commerce-website-cwxm.onrender.com",
     },
     {
       title: "Tonguefu Videogame",
       description: "3D platformer game using Unity and C#, featuring a frog protagonist that navigates through various levels to reach the top of a tree while battling different enemies.",
       codeUrl: "https://github.com/miguel23es/Tonguefu",
-      demoUrl: "https://YOUR_LIVE_DEMO_4", // if no live demo, you can link to a video or repo
+      demoUrl: "https://YOUR_LIVE_DEMO_5", 
     },
   ];
 
