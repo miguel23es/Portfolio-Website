@@ -62,6 +62,12 @@ export default function Projects() {
       codeUrl: "https://github.com/miguel23es/Tonguefu",
       demoUrl: "https://YOUR_LIVE_DEMO_5", 
     },
+    {
+      title: "Tonguefu Videogame",
+      description: "3D platformer game using Unity and C#, featuring a frog protagonist that navigates through various levels to reach the top of a tree while battling different enemies.",
+      codeUrl: "https://github.com/miguel23es/Tonguefu",
+      demoUrl: "https://YOUR_LIVE_DEMO_5", 
+    }
   ];
 
   return (
